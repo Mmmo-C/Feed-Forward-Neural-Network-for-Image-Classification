@@ -91,7 +91,7 @@ Explained variance ratio: [0.09746116 0.07155445 0.06149531 0.05403385 0.0488893
 ```
  
 The confusion matrix shows the result of model fitting is shown as
-![CM]()
+![CM](https://github.com/Mmmo-C/Feed-Forward-Neural-Network-for-Image-Classification/blob/main/results/CM.png)
  
 The model fit has a accuracy of 
 ```
